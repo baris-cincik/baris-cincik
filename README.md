@@ -5,6 +5,6 @@
 - 🏠 I’m currently in Montreal, Canada
 - 🌱 Most of my projects are hosted on Private repositories, but acceess is granted upon request.
 - 📫 You can reach me at: baris.cincik@mail.mcgil.ca
-- ⚡ Fun fact: I'm deeply interested in cinematography
+- ⚡ Fun fact: I'm deeply interested in psychology
 - My portfolio: https://bariscincik.netlify.app/
 
